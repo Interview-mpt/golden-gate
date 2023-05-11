@@ -1,6 +1,14 @@
-### Command
+### Execute script
+#### Php local
 ```sh
 php index.php
+```
+#### Docker
+```sh
+docker build -t ggg .
+```
+```sh
+docker run ggg
 ```
 
 ### Note
