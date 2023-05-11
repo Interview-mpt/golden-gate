@@ -1,0 +1,15 @@
+{
+    "name": "mrminh/golden-gate",
+    "autoload": {
+        "psr-4": {
+            "MrMinh\\GoldenGate\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Thanh Minh",
+            "email": "minhpt0903@gmail.com"
+        }
+    ],
+    "require": {}
+}
